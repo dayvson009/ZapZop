@@ -23,7 +23,9 @@ Projeto zapzop desenvolvido em NodeJs, sistema integrado com
 
 ### 2 - Integrar as respostas com o DialogFlow
 
-### 3 - ChatGuru
+### 3 - ChatGuru e OMNICHAT
+
+  O site será parecido com o: https://omni.chat/ e o Sistema do ZapGuru + TakeBlip
 
   O chatguru vai ser uma central que centraliza todas as conversas dos clientes, podendo agendar: envio de mensagens; disparos de um flow;
   pode também encaminar mensagem para algum atendente específico, setar um rodízio para cada novo atendimento ele já redirecionar para um dos atendentes ativos.
